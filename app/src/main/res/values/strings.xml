@@ -8,8 +8,16 @@
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_gallery">Examenes</string>
+    <string name="menu_slideshow">Resultados</string>
+    <string name="menu_about">About</string>
 
     <string name="home_second">Home Second</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info_about">Esta aplicación fue desarrollada por un grupo de estudiantes de la Universidad del Valle de Guatemala pertenecientes al grupo #2
+    de la clase de programación de plataformas móviles. Los nombres de los integrantes son: Sebastián Maldonado, Alfredo Quezada y Javier Hernández.\n\n El
+    propósito de la aplicación es poder identificar si el usuario tiene astigmatismo, miopía o daltonismo por medio de unos exámenes visuales.\n\n\n Nota: No se
+    garantiza 100% que tenga la enfermedad, se recomienda que el usuario vaya a un oculista para confirmar el diagnóstico.</string>
 </resources>
